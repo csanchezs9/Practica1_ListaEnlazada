@@ -1,0 +1,3 @@
+C:/Users/camil/CLionProjects/Practica1_ListasEnlazadas/cmake-build-debug/CMakeFiles/Practica1_ListasEnlazadas.dir
+C:/Users/camil/CLionProjects/Practica1_ListasEnlazadas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/camil/CLionProjects/Practica1_ListasEnlazadas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
